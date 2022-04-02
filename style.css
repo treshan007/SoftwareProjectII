@@ -18,8 +18,8 @@ body {
 .wrapper {
   width: 605px;
   background: #fff;
-  border-radius: 15px;
-  padding: 30px 30px 25px;
+  border-radius: 10px;
+  padding: 20px 60px 20px;
   box-shadow: 10px 9px -5 12px rgba(0, 0, 0, 0.1);
 }
 
